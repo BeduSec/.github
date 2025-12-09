@@ -29,4 +29,7 @@
 
 ## Top Projects 
 
-|
+| PROJECT  |  DATE |  CONTRIBUTIONS | BY |
+|-------|--------|------|------------|
+| Nexus Prime | 7/12/2025 | N/A  | Anonymous 🎭 |
+| 504 | 7/12/2025 | 3  | Icii White |
