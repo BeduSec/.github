@@ -12,13 +12,14 @@
 >The [BEDU-TEAM](team.html) is a group of developers and hackers contributing to making software accessible at all points.
 >
 ## Our trustees
-[myTech](github.com/iciiwhite)
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-![Bedusec](https://img.shields.io/badge/Bedusec-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiM0QjAwODIiLz4KPC9zdmc+Cg==&logoColor=white) ![Icii White](https://img.shields.io/badge/Icii_White-cyan?style=for-the-badge&logoColor=black)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.com)
+
+[![Bedusec](https://img.shields.io/badge/Bedusec-4B0082?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiM0QjAwODIiLz4KPC9zdmc+Cg==&logoColor=white)](https://github.com/orgs/bedusec) [![Icii White](https://img.shields.io/badge/Icii_White-cyan?style=for-the-badge&logoColor=black)](https://github.com/iciiwhite)
+
 ![GOLDEN APPLE TECHNOLOGIES](https://img.shields.io/badge/GOLDEN_APPLE_TECHNOLOGIES-FFD700?style=for-the-badge&logo=apple&logoColor=black)
 ![myTech](https://img.shields.io/badge/myTech-00A8E8?style=for-the-badge&logo=code&logoColor=white)
 
@@ -31,5 +32,5 @@
 
 | PROJECT  |  DATE |  CONTRIBUTIONS | BY |
 |-------|--------|------|------------|
-| Nexus Prime | 7/12/2025 | N/A  | Anonymous 🎭 |
-| 504 | 7/12/2025 | 3  | Icii White |
+|  ![Project 504](https://img.shields.io/badge/Nx+Prime-black?style=for-the-badge&logoColor=yellow) | 7/12/2025 | N/A  | Anonymous 🎭 |
+| ![Project 504](https://img.shields.io/badge/504-purple?style=for-the-badge&logoColor=white) | 7/12/2025 | 3  | Icii White |
