@@ -1,4 +1,4 @@
-# **BeduSec**
+# **[BeduSec](https://chat.google.com/preview/room/AAQAv0HumME?cls=12&cet=1)**
 > Viviamo per il rispetto 
 
 ### Informazioni su BeduSec 
